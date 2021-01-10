@@ -12,6 +12,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		System.out.print("hello idea!");
 		System.out.print("hello idea! Hello Github");
+		System.out.print("hello idea! Hello Github!Test Git again");
 	
 	}
 
